@@ -1,4 +1,4 @@
-#  using: python3 ./clock.py "20:50:00"
+#  usage: python3 ./clock.py "20:50:00"
 
 import sys
 import time
